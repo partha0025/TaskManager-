@@ -1,0 +1,1 @@
+This project provides a clean, unified platform for streamlining workflows. Users can create to-do lists, categorize activities, assign priorities, track due dates, and mark tasks as complete. Built with a modular structure, it is scalable for both personal and collaborative team use.
